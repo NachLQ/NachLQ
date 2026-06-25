@@ -1,29 +1,22 @@
 # Nach Leal Quiroz
 
-I build practical AI systems for small businesses: lead capture, workflow automation, content operations and multi-agent infrastructure.
+I build practical AI systems that solve real operational problems: lead capture, workflow automation, multi-agent coordination and content operations.
 
-Currently building Nach Enterprises, a real AI operating layer with local specialized agents, RAG memory over a 10,454 chunk vault, Telegram coordination and production lead pipelines.
+Based in Cataluña. Working with small businesses and independent operators.
 
-My work sits between business, creativity and technical execution: turning messy real-world problems into useful systems with AI, process and common sense.
+## What I work on
 
-## Current focus
-
-- AI-assisted lead capture and qualification
+- AI-assisted lead capture and qualification pipelines
 - Workflow automation for small businesses
 - Multi-agent coordination systems
-- RAG-based project memory
-- Content operations for local brands and creators
-- Practical AI systems that can actually be used, not just demoed
+- RAG-based persistent memory for AI agents
+- Content operations systems
+- Practical AI infrastructure built to run in production, not just demos
 
-## Projects
+## Stack
 
-- **Nach Enterprises** - AI systems portfolio and operating layer
-- **Silys** - lead capture and automation case study
-- **Viralsesoria** - content and social media laboratory
-- **K.K.Kat** - experimental AI-assisted content engine
+Python · Telegram bots · Claude CLI · ChromaDB · n8n · systemd · WSL2
 
 ---
 
-Based in Reus, Cataluña.
-
-nachleal94@gmail.com
+Open to collaborations on applied AI systems and automation projects.
